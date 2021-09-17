@@ -3,3 +3,4 @@
 
 1. git init  初始化git仓库
 2. git status 查看当前分支的状态
+3. git log 查看提交日志
